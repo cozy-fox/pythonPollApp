@@ -10,10 +10,10 @@ Django poll app is a full featured polling app. You have to register in this app
 
 <h2>Installing</h2>
 <pre>open terminal and type</pre>
-<code>git clone https://github.com/devmahmud/Django-poll-app.git</code><br><br>
+<code>git clone https://github.com/peterpaker48/Django-poll-app.git</code><br><br>
 
 <h4>or simply download using the url below</h4>
-<code>https://github.com/devmahmud/Django-poll-app.git</code><br>
+<code>https://github.com/peterpaker48/Django-poll-app.git</code><br>
 
 <h2>To migrate the database open terminal in project directory and type</h2>
 <code>python manage.py makemigrations</code><br>
@@ -37,7 +37,7 @@ Django poll app is a full featured polling app. You have to register in this app
 <h2>Project snapshot</h2>
 <h3>Home page</h3>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/19981097/51409444-0e40a600-1b8c-11e9-9ab0-27d759db8973.jpg" width="100%"</img> 
+    <img src="static/img/readme01.jpg" width="100%"</img> 
 </div>
 
 <h3>Login Page</h3>
@@ -82,8 +82,8 @@ Django poll app is a full featured polling app. You have to register in this app
 
 <h2>Author</h2>
 <blockquote>
-  Mahmudul alam<br>
-  Email: expelmahmud@gmail.com
+  Peter Paker<br>
+  Email: peterpaker611@gmail.com
 </blockquote>
 
 <div align="center">
